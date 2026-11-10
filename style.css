@@ -1,0 +1,407 @@
+body{
+    background-color: #231002;
+}
+.mainhead{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+    margin-left: 30px;
+}
+.mainhead:hover{
+    color: rgb(243, 181, 10) ;
+    cursor: pointer;
+}
+P{
+    color: aliceblue;
+}
+.navbar{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.navbar:hover{
+color: rgb(243, 181, 10);
+cursor: pointer;
+}
+.eggpic{
+   
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  cursor: pointer;
+}
+.eggpic:hover{
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px); 
+  box-shadow: 0 15px 30px rgba(189, 183, 183, 0.25); 
+}
+.cherryballs{
+   box-shadow: 0 4px 10px rgba(235, 227, 227, 0.15);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  cursor: pointer; 
+ 
+
+}
+.cherryballs:hover{
+   transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px); 
+ 
+}
+ .chickenball{
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+  cursor: pointer; 
+ 
+ }
+ .chickenball:hover{
+     transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+.minibite{
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+  cursor: pointer; 
+  
+}
+.minibite:hover{
+
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+.karahi{
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+  cursor: pointer; 
+  
+}
+.karahi:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+
+
+.haleem{
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+  cursor: pointer; 
+  
+}
+.haleem:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+
+
+
+
+
+.nihari{
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+  cursor: pointer; 
+  
+}
+.nihari:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+
+
+
+
+.malaiboti{
+    transition: transform 0.4s ease;
+  cursor: pointer;  
+  
+}
+.malaiboti:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+
+
+
+
+.fries{
+    transition: transform 0.4s ease;
+  cursor: pointer; 
+  
+}
+.fries:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+
+
+.pasta{
+    transition: transform 0.4s ease;
+  cursor: pointer; 
+  
+}
+.pasta:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+
+
+.lazania{
+    transition: transform 0.4s ease;
+  cursor: pointer; 
+  
+}
+.lazania:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+
+
+
+.tikka{
+    transition: transform 0.4s ease;
+  cursor: pointer; 
+  
+}
+.tikka:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+
+
+
+
+.roll{
+    transition: transform 0.4s ease;
+  cursor: pointer; 
+  
+}
+.roll:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+.nuggets{
+    transition: transform 0.4s ease;
+  cursor: pointer; 
+  
+}
+.nuggets:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+
+.noodle{
+    transition: transform 0.4s ease;
+  cursor: pointer; 
+  
+}
+.noodle:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+
+
+
+.pizza{
+    transition: transform 0.4s ease;
+  cursor: pointer; 
+  
+}
+.pizza:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+
+
+
+
+.pudding{
+    transition: transform 0.4s ease;
+  cursor: pointer; 
+  
+}
+.pudding:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+
+
+
+
+.laircake{
+    transition: transform 0.4s ease;
+  cursor: pointer; 
+  
+}
+.laircake:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+
+
+
+
+.mouseecake{
+    transition: transform 0.4s ease;
+  cursor: pointer; 
+  
+}
+.mouseecake:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+.cherrypudding{
+    transition: transform 0.4s ease;
+  cursor: pointer; 
+  
+}
+.cherrypudding:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+
+
+
+.chocroll{
+    transition: transform 0.4s ease;
+  cursor: pointer; 
+  
+}
+.chocroll:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+
+
+.donut{
+    transition: transform 0.4s ease;
+  cursor: pointer; 
+  
+}
+.donut:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+
+
+.icecream{
+    transition: transform 0.4s ease;
+  cursor: pointer; 
+  
+}
+.icecream:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+
+.choccake{
+    transition: transform 0.4s ease;
+  cursor: pointer; 
+  
+}
+.choccake:hover{
+    
+    transform: scale(1.15); 
+    cursor: pointer;
+     transform: translateY(-8px);  
+}
+
+ h2:hover{
+cursor: pointer;
+color: rgb(243, 181, 10);
+text-decoration: underline;
+ }
+ p:hover{
+cursor: pointer;
+color: rgb(243, 181, 10);
+text-decoration: underline;
+ }
+ button:hover{
+    background-color: rgb(243, 181, 10) ;
+    color: white;
+    cursor: pointer;
+    border-radius: 30px;
+ }
+html {
+  scroll-behavior: smooth;
+}
+.punch{
+    color:rgb(243, 181, 10) ;
+    text-decoration: none;
+}
+.punch:hover{
+    color: white;
+    text-decoration: none;
+}
